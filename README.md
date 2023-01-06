@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm QueryVS</h1>
-<h3 align="center">A Devops Engineer from Türkiye</h3>
+<h3 align="center">A Linux System Engineer from Türkiye</h3>
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/QueryVS](https://gitlab.com/QueryVS)
 
