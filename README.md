@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm QueryVS</h1>
 <h3 align="center">A Devops Engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **AWS,Kubernetes,devsecops**
+- 🌱 I’m currently learning **Kubernetes, Bug Bounty, Security**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/QueryVS](https://gitlab.com/QueryVS)
 
