@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/QueryVS](https://gitlab.com/QueryVS)
 
-- 📝 I regularly write articles on [https://medium.com/@ahmetnumn](https://medium.com/@ahmetnumn)
+- 📝 I regularly write articles on [https://medium.com/@ahmetnumancoskun](https://medium.com/@ahmetnumancoskun)
 
 - 💬 Ask me about **troubleshooting on linux systems,linux systems,devops services,docker swarm mode,docker,docker-compose,CI/CD,pipelines,system security,monitoring,DevOps service configraions,etc.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ahmet-numan-c-8442b4200/**
+- 📫 How to reach me **https://www.linkedin.com/in/ahmetnumancoskun**
 
-- 📄 Know about my experiences [https://medium.com/@ahmetnumn](https://medium.com/@ahmetnumn)
+- 📄 Know about my experiences [https://queryvs.gitbook.io/belgeler-queryvs/](https://queryvs.gitbook.io/belgeler-queryvs/) ,[https://medium.com/@ahmetnumancoskun](https://medium.com/@ahmetnumancoskun), 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
